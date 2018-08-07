@@ -1,0 +1,14 @@
+<html>
+  <head><title>Page A</title> </head>
+  <body>
+    <p>This is page A</p>
+    <p>Keywords for A are
+      <ul>
+        <li>acrobat</li>
+        <li>argyle</li>
+        <li>bread</li>
+      </ul>
+    </p>
+    <p><a href="b.html">A link to page B</a></p>
+  </body>
+</html>
